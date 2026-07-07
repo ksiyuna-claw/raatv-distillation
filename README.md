@@ -64,8 +64,8 @@ git clone https://github.com/ksiyuna-claw/raatv-distillation.git
 cd raatv-distillation
 
 # Set your API keys / 设置 API Key
-export TIKHUB_API_KEY="your_tikhub_key_here"
-export SILICONFLOW_KEY="your_siliconflow_key_here"
+export TIKHUB_API_KEY="YOUR_TIKHUB_API_KEY"
+export SILICONFLOW_KEY="YOUR_SILICONFLOW_KEY"
 ```
 
 ## Usage / 使用方法
