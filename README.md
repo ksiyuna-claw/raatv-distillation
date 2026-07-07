@@ -173,6 +173,6 @@ If this framework helped you understand and replicate creator styles, give it a 
 ---
 
 <p align="center">
-  <b>👨‍🍳 匡书记的家常出品</b><br>
-  <i>Crafted by Kuang Shuji's Kitchen</i>
+  <b>👨‍🍳 匡书记的虾厂出品</b><br>
+  <i>Crafted by Kuang Shuji's Shrimp Factory</i>
 </p>
