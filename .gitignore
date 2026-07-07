@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+*.tmp
+*.swp
+.DS_Store
+.env
+*.log
+audio/
+status/
+segments/

@@ -1,0 +1,4 @@
+# RAATV Distillation Framework
+# Python 3.8+ required
+# No heavy dependencies — scripts use only standard library
+# Optional: ffmpeg (for audio compression on long videos)
